@@ -1,0 +1,6 @@
+{
+ "name":"Estudo Assembly",
+ "files":[
+ {"directory":".","git":true,"recursive":true}
+ ]
+}
