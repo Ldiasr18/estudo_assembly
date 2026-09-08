@@ -49,3 +49,18 @@ Contem instruções de execução.
         ; Instruções do programa
         ; Tem que finalizar com uma chamada de saida do sistema
         
+### Instruções
+
+Formato de operações:
+    
+    [label:]  mnemonic [operand1], [operand2]
+    
+    
+### requisitos
+
+nasm
+binutils (ld)
+
+
+
+    
